@@ -1,4 +1,4 @@
-{
+ {
   "providers": {
     "awscloudformation": {
       "AuthRoleName": "amplify-dummy-dummy-122135-authRole",
