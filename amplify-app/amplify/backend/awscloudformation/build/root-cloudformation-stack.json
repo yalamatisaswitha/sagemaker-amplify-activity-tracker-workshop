@@ -1,4 +1,4 @@
-{
+ {
   "Description": "Root Stack for AWS Amplify CLI",
   "AWSTemplateFormatVersion": "2010-09-09",
   "Parameters": {
