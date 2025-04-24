@@ -1,4 +1,4 @@
-import React from 'react';
+ import React from 'react';
 
 import {Heading} from '@aws-amplify/ui-react';
 import {View, Flex, Card} from '@aws-amplify/ui-react';
