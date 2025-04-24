@@ -5,7 +5,7 @@ Amplify.configure(awsconfig);
 
 
 var send_timer;
-var buffer_timer;
+var buffer_timer; 
 var sample_values = [];
 
 var data_buffer = {}
