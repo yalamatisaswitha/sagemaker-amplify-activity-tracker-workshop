@@ -20,13 +20,13 @@ Deploy the web app:
 - From the mono-repo config, select the `amplify-app` folder.
 - Deploy both the front and backend.
 
-### SageMaker
+###SageMaker
 
 Load the notebook:
 - Clone this repository (or just the SageMaker folder) into Amazon SageMaker Studio.
 - Step through the code in the notebook. 
 
-### Charges and Quotas
+###Charges and Quotas
 
 Aspects of this project will incur a charge.  Before deploying any element of this project
 please check the AWS pricing pages for the relevant services before deploying. For more information about AWS service pricing, see [here](https://aws.amazon.com/pricing).
