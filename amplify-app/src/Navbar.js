@@ -1,4 +1,4 @@
-import React from "react";
+ import React from "react";
 import {Link} from "react-router-dom";
 import {Flex, View, Card, Text} from '@aws-amplify/ui-react';
 import '@aws-amplify/ui-react/styles.css';
