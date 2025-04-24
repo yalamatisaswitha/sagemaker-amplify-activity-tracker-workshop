@@ -1,4 +1,4 @@
-{
+ {
   "pluginId": "amplify-python-function-runtime-provider",
   "functionRuntime": "python",
   "useLegacyBuild": false,
